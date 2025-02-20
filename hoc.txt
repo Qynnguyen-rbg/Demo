@@ -1,3 +1,8 @@
-Xây dựng hệ thống thông tin 
-Học các xây dựng liên kết các trường 
-Vẽ sơ đồ thể hiện trường liên kết
+git init : tạo kho lưu trữ
+git add : thêm một cái gì đó
+git commit -m : giao thứ đã thêm vào kho
+git push: đẩy lên sever
+git pull: kéo về máy
+git branch: tạo nhánh
+git checkout: đăng nhập vào nhánh
+git merge: hợp lại nhánh
