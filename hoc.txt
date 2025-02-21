@@ -6,3 +6,21 @@ git pull: kéo về máy
 git branch: tạo nhánh
 git checkout: đăng nhập vào nhánh
 git merge: hợp lại nhánh
+cd: thay đổi thư mục
+dir: hiển thị danh sách thư mục
+mkdir: tạo ra thư mục mới
+touch: tạo tập tin mới
+echo: in/ xuất 1 nội dung ?     > Tên file: chỉ định hướng xuất dữ liệu ( ghi đè)
+                                >> Tên file : nt (ghi mới)
+cat: hiển thị nội dung
+diff: so sánh sự khác biệt
+rm : xóa tập tin       rm -d :rỗng
+                        rm -r: có ..
+develop: lập trình viên ?
+git log: hiển thị lịch sử các commit
+git clone reponame  clonename : tạo bản sao liên kết repo
+git config -l xem cấu hình 
+git config -l (--scope) (option name) (value)
+--scope : --system       --global     --local
+git init --bare: tạo central repo
+git fetch lấy các thông tin mới commit từ repo
