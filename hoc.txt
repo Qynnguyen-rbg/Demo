@@ -24,3 +24,4 @@ git config -l (--scope) (option name) (value)
 --scope : --system       --global     --local
 git init --bare: tạo central repo
 git fetch lấy các thông tin mới commit từ repo
+taoj nhanhs de phan cong cong viec
